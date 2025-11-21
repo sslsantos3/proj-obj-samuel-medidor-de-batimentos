@@ -18,7 +18,7 @@ Este projeto tem como objetivo medir e exibir os batimentos cardíacos em tempo 
 
 ---
 
-## 🛠 Componentes Necessários
+##  Componentes Necessários
 
 - ESP32 DevKit C V4  
 - Sensor de pulso analógico (pino 35)  
