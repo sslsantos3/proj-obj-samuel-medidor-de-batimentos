@@ -1,4 +1,4 @@
-# 💓 Sistema de Monitoramento Cardíaco com ESP32
+#  Sistema de Monitoramento Cardíaco com ESP32
 
 Este projeto tem como objetivo medir e exibir os batimentos cardíacos em tempo real usando o **ESP32 DevKit C V4**. O dispositivo apresenta informações no **OLED 128x64**, aciona LEDs de alerta e envia os dados via **MQTT**, permitindo acompanhamento remoto do ritmo cardíaco.
 
@@ -6,7 +6,7 @@ Este projeto tem como objetivo medir e exibir os batimentos cardíacos em tempo 
 
 ---
 
-## ⚡ Recursos Principais
+##  Recursos Principais
 
 - Medição contínua do BPM a partir de sensor analógico.  
 - LEDs indicadores do estado do batimento:  
@@ -29,7 +29,7 @@ Este projeto tem como objetivo medir e exibir os batimentos cardíacos em tempo 
 
 ---
 
-## 🚀 Instalação e Testes
+##  Instalação e Testes
 
 1. Monte o circuito conforme o esquema do protótipo.  
 2. Ajuste o **SSID** e senha da rede Wi-Fi, bem como o broker MQTT no código.  
@@ -39,7 +39,7 @@ Este projeto tem como objetivo medir e exibir os batimentos cardíacos em tempo 
 
 ---
 
-## 🔬 Testes Realizados
+##  Testes Realizados
 
 - Simulações com diferentes valores de pulso mostraram que os LEDs respondem corretamente.  
 - O display OLED apresenta informações claras e atualizadas instantaneamente.  
@@ -48,7 +48,7 @@ Este projeto tem como objetivo medir e exibir os batimentos cardíacos em tempo 
 
 ---
 
-## 💡 Possíveis Aperfeiçoamentos
+##  Possíveis Aperfeiçoamentos
 
 - Criar interface web ou aplicativo para visualização remota e análise histórica.  
 - Implementar notificações por smartphone quando o BPM sair da faixa ideal.  
@@ -57,7 +57,7 @@ Este projeto tem como objetivo medir e exibir os batimentos cardíacos em tempo 
 
 ---
 
-## 📚 Referências
+##  Referências
 
 - F. Malan, *Getting Started with ESP32 Microcontrollers*, Maker Press, 2022.  
 - Adafruit Learning System, *SSD1306 OLED Display Guide*, Adafruit, 2023.  
